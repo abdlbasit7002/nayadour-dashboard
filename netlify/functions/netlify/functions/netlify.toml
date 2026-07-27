@@ -1,0 +1,5 @@
+# Save this file as: netlify.toml  (in the same root folder as your index.html)
+
+[build]
+  publish = "."
+  functions = "netlify/functions"
